@@ -1,0 +1,4 @@
+18 8824316 1659383183650923619 b6ca0cca1dd73372da5d47fcd792a990 /Users/christianmiller/Documents/gozig/zig-cache/o/cbc447682b8eb77c5e0a72b20616afcc/cimport.h
+1698 8823408 1659382718902635282 27b7302d34a3ea5f09fec50d24110f53 /Users/christianmiller/Documents/gozig/lib/go-c.h
+3589 8374213 1658955788633176835 d5b2e707895a5f0328183b755fbeead3 /opt/homebrew/Cellar/zig/HEAD-90f23e1_1/lib/zig/include/stddef.h
+857 8374232 1658955788595752842 dc897d635a7da8d7a7e0e937f4d1de94 /opt/homebrew/Cellar/zig/HEAD-90f23e1_1/lib/zig/include/__stddef_max_align_t.h
